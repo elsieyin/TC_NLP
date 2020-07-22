@@ -3,3 +3,4 @@ data/test_a.csv
 data/test_a_sample_submit.csv
 data/train.csv
 data/train_set.csv
+data/train.pkl
