@@ -8,3 +8,7 @@ data.rar
 train.csv
 train.csv
 train.csv
+*.zip
+*.csv
+train.csv
+*.bin
